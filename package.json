@@ -1,0 +1,29 @@
+{
+  "name": "ascii-pixel-3d",
+  "version": "1.0.0",
+  "description": "a system for rendering 3D objects on a 2D plane of cells. there is an ascii mode and a pixellation mode. built with p5.js",
+  "keywords": [
+    "ascii",
+    "generative",
+    "art",
+    "p5"
+  ],
+  "homepage": "https://github.com/mdrmx/ascii-pixell-3d#readme",
+  "bugs": {
+    "url": "https://github.com/mdrmx/ascii-pixell-3d/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdrmx/ascii-pixell-3d.git"
+  },
+  "license": "MIT",
+  "author": "mdrmx",
+  "type": "commonjs",
+  "main": "sketch.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
